@@ -1,0 +1,414 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.services-thumb:hover h5 a,
+.coming-soon-social li a:hover,
+.pages-links li a:hover,
+.social-links li a:hover,
+.autor_social li a:hover i,
+.about-autor_des:hover h6 a,
+.countdown li span,
+.user-box-footer a,
+.thumb-link,
+.kf-messonery-gallery #filterable-item-filter-1 li a.active,
+.kf-messonery-gallery #filterable-item-filter-1 li a:hover,
+.kf-messonery-gallery .button-group.js-radio-button-group .button.is-checked,
+.kf-messonery-gallery .button-group.js-radio-button-group.button:hover,
+.kf-grid-icon > button.active i,
+.widget-archives li i,
+.filterable-thumb:hover .thumb-link:hover,
+.date-picker-des .add-on ,
+.contactus-wrap form textarea:focus,
+.contactus-wrap form input[type="text"]:focus,
+.blog-search form input[type="text"]:focus,
+.blog-search form textarea:focus,
+.kf-testimonial-bg  .kf-heading-1 span,
+.kf-tab-services-wrap .kf-heading-1 span,
+.basic option span,
+.kf-booking-shdule .input-group-addon,
+.datepicker th.switch,
+.datepicker th.next,
+.datepicker th.prev,
+.kf-hotel-room:hover h6 a,
+.kf-top-bar .pull-left ul li a:hover ,
+.kf-top-bar .pull-right ul li a:hover,
+.kf-top-bar .pull-left ul li i,
+.searchform form input[type="text"],
+.kf-home-banner figure figcaption h2 span,
+.rw-sentence span,
+.servises-meta li,
+.nav.nav-tabs.tab-services > li.active a,
+.kf-testimonial-des .text em,
+.kf-newsletter-meta li i,
+.kf-accomodation-dec figcaption a,
+.kf-accomodation-dec:hover .text h5 a,
+.filterable-thumb .rating > span:hover:before,
+.filterable-thumb .rating > span:hover ~ span:before,
+.kf-price-tag figcaption span sup,
+.kf-price-tag:hover figcaption span,
+.kf-price-tag:hover h5,
+/*footer*/
+.widget .text form button i,
+.widget-twitter i,
+.kf-footer-nav li a:hover,
+.kf-footer-social li a:hover,
+/*inner banner*/
+.inner-banner span,
+.breadcrumb li::before,
+.breadcrumb li > a:hover,
+/*room grid*/
+.room-grid-retail span,
+.kf-our-room:hover .text h5,
+.kf-overflow-meta li i,
+.widget-categories ul a:hover,
+.widget-categories ul a:hover i,
+.widget-archives ul li span,
+.kf-overflow-meta li a:hover,
+.kf-aboutus-wrap .text h4,
+.kf-artical-meta li a span,
+.comment_reply,
+
+/*blog list*/
+.Posts-heading:hover a,
+.kf-bloglist-heading span,
+.kf-bloglist-heading span strong,
+.kf-cnt li,
+.related-post figure:hover figcaption a,
+.comment-overflow cite a:hover,
+.overflow-contac a:hover,
+/*404*/
+.kf-404-wrap h6 strong,
+.kf-404-wrap h6 span,
+.facilites-items li:hover i,
+.searchlink:hover i,
+/**/
+.staff-dec small,
+.awards-dec span,
+.staff-dec h5:hover a,
+.retail-thumb .rate,
+.comment3-dec figcaption p,
+.more,
+.comment3-dec .thumb-dec p,
+.contact-tag h6 span,
+.servic2:hover .text h4 a
+{
+	color:#eb1a1a;	
+}
+
+
+
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.kf-blog-list .owl-theme .owl-controls .owl-buttons div:hover,
+.coming-soon-social li a,
+.widget-search.bg  form button,
+.btn-style,
+.kf-popular-post.special-offer span ,
+.kf-room-grid:hover .thumb figure:before,
+.kf_content-des .thumb figure:before,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav .button-group.js-radio-button-group .button:hover,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav .button-group.js-radio-button-group .button.is-checked,
+.kf-nav ul ul li:hover > a,
+.kf-booking-shdule .selectric-items li.selected,
+.kf-items-show .selectric-items li.selected,
+.kf-items-show .selectric-items li:hover,
+.kf-booking-shdule  .selectric-items li:hover,
+.datepicker .day.active,
+#calendar-sidebar  .fc-toolbar  button,
+#calendar-sidebar .fc-toolbar,
+.kf-pagination .pagination li.active a,
+.widget-tags ul li a:hover,
+.kf-our-room:hover .btn-3,
+.kf-blog-3:hover .btn-3,
+.kf-accomodation-dec figure,
+.kf-home-banner > span,
+.small-btn,
+.medium-btn,
+.large-btn,
+.kf-newsletter-dec form button,
+.kf-accomodation-dec .text h5 a:before,
+.rating a,
+.kf-price-tag:hover button,
+.kf-staff-thumb:hover .kf-overlay:before,
+#owl-demo-2 .owl-controls .owl-buttons div:hover:before,
+.widget-instagram li a,
+.kf-room-grid .thumb figure,
+.room-grid-retail .btn-3:hover,
+.kf-our-room figure,
+.blog3-meta,
+.kf-sidebar h5:before,
+.kf-popular-post ul li:before,
+.kf-blog-list .text .btn-3:hover,
+.kf-pagination .pagination li a:hover,
+.kf-sidebar .widget form button:hover,
+.blog-search form button,
+.related-post figure:hover .post-date,
+.blog-detail-page .widget.widget-search button,
+.contactus-wrap form button,
+.kf-cont-heading h5:before,
+/*404*/
+.kf-404-wrap form button,
+.social-404 li a:hover,
+/*gallery 1*/
+.hotel-gallery1-wrap #filterable-item-filter-1 li a.active,
+.hotel-gallery1-wrap #filterable-item-filter-1 li a.active:hover,
+.hotel-gallery1-wrap #filterable-item-filter-1 li a:hover,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav #filterable-item-filter-1 li a.active,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav #filterable-item-filter-1 li a:hover,
+.bottom-effect,
+.top-effect, 
+#nav-trigger span:hover, 
+nav#nav-mobile a:hover,
+.kf-facilites-wrap .accomodation2-dec figure,
+.grid2-slider .bx-wrapper .bx-controls-direction a:hover::before,
+.services-thumb span,
+/**/
+.skill-progress .bar,
+.staff-dec ul li a:hover,
+.more-div p a i,
+.resrvation-form form button,
+.servic2:before,
+.res-dec .selectric-items li.selected,
+.res-dec .selectric-items li:hover,
+.res-dec  .selectric-items li:hover,
+.kf-nav .dl-menuwrapper ul
+{
+	background-color:#ff401b;	
+}
+.skill-progress .progressbars.progress_single{
+	background-color:#ff401b!important;
+}
+
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+
+.input-container input[type="text"]:focus, .input-container input[type="password"]:focus,
+input:checked + .radio-value,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav .button-group.js-radio-button-group .button:hover,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav .button-group.js-radio-button-group .button.is-checked,
+#calendar-sidebar .fc-day-number.fc-today.fc-state-highlight:before,
+.kf-404-wrap form input[type="text"]:focus,
+.contactus-wrap form textarea:focus,
+.contactus-wrap form input[type="text"]:focus,
+.blog-detail-page .widget.widget-search input[type="text"],
+.blog-search form input[type="text"]:focus,
+.blog-search form textarea:focus,
+.kf-pagination .pagination li.active a,
+.kf-pagination .pagination li a:hover,
+.related-post figure span,
+.kf-blog-detail figure:before,
+.kf-blog-detail figure a:after,
+.video-thumb:after,
+.video-thumb:before,
+.kf-blog-list .text .btn-3:hover,
+.kf-overflow-meta li a,
+.widget-tags ul li a:hover,
+.kf-blog-list figure,
+.kf-our-room:hover .btn-3,
+.kf-blog-3:hover .btn-3,
+.kf-blog-3:hover figure,
+.widget .text form input[type="text"]:focus,
+.kf-price-tag figcaption span sub,
+.kf-price-tag figcaption span sup,
+.kf-price-tag:hover,
+#owl-demo-1 .owl-controls .owl-page.active span,
+.searchform form input[type="text"]:focus,
+.kf-sidebar .widget form input[type="text"]:focus,
+.social-404 li a:hover,
+/*gallery 1*/
+.hotel-gallery1-wrap #filterable-item-filter-1 li a.active,
+.hotel-gallery1-wrap #filterable-item-filter-1 li a.active:hover,
+.hotel-gallery1-wrap #filterable-item-filter-1 li a:hover,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav #filterable-item-filter-1 li a.active,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav #filterable-item-filter-1 li a:hover,
+.grid2-slider #bx-pager > a.active,
+.services-thumb:hover span:after,
+/*staff detail*/
+.stuff-detail,
+.awards-dec span,
+.res-dec input[type="text"]:focus
+{
+	border-color:#ff401b ;	
+}
+
+
+
+/*
+	  ============================================================
+		   Transaction Effect
+	  ============================================================
+*/
+.res-dec input[type="text"],
+.blog3-meta span,
+.blog3-meta ul,
+.kf-blog-list .owl-theme .owl-controls .owl-buttons div,
+.kf-room-grid .text a,
+.btn-style,
+.kf-room-grid .thumb figure:before,
+.kf_content-des .thumb figure:before,
+.Posts-heading a,
+.kf-gallery-wrap.galler-2-wrap .gallery-2-nav .button-group.js-radio-button-group .button,
+.kf-messonery-gallery .button.is-checked,
+.kf-nav ul ul li a:hover,
+.hotel-masonery-thumb .text,
+.bottom-effect,
+.shadow-shadow,
+.shine-effect,
+.top-effect,
+.hotel-masonery-thumb,
+.hotel-masonery-thumb:before,
+.hotel-masonery-thumb,
+.hotel-gallery1-wrap #filterable-item-filter-1 li a,
+.kf-messonery-gallery #filterable-item-filter-1 li a,
+.kf-404-wrap form input[type="text"],
+.contactus-wrap form textarea,
+.contactus-wrap form input[type="text"],
+.kf_content_wrap input:focus,
+.overflow-contac a,
+.contactus-wrap form button,
+.autor_social li a,
+.comment-overflow cite a,
+.related-post figure figcaption a,
+.blog-search form textarea,
+.blog-search form input[type="text"],
+.breadcrumb li > a,
+.kf-pagination .pagination li a,
+.kf-overflow-meta li a,
+.kf-sidebar .widget form button,
+.kf-blog-list .text .btn-3,
+.widget-tags ul li a,
+.widget-archives ul li i,
+.widget-archives ul li,
+.widget-categories ul a,
+input,
+.widget-categories ul li a,
+.kf-our-room .btn-3,
+.kf-blog-3 .btn-3,
+.kf-blog-3 figure,
+.kf-our-room .text h5,
+.kf-our-room figure img,
+.kf-our-room figcaption,
+.kf-our-room,
+.room-grid-retail a,
+.kf-room-grid .thumb figcaption a,
+.kf-room-grid .thumb figure img,
+.kf-overlay > a,
+.kf-overlay > a i,
+.medium-btn,
+.large-btn,
+.small-btn,
+.kf-staff-social li a,
+.widget-instagram li a i,
+.widget-instagram li a img,
+.widget-instagram li a,
+.kf-footer-nav li a,
+.kf-footer-social li a,
+.kf-overlay,
+#owl-demo-2 .owl-controls .owl-buttons div:before,
+.kf-price-tag button,
+.kf-price-tag figcaption span sub:before,
+.kf-price-tag figcaption span,
+.price-tag-heading button,
+.price-tag-heading h5,
+.kf-price-tag,
+.kf-price-tag figcaption,
+.kf_masonery_thumb:hover figure img,
+.kf_masonery_thumb .rating,
+.kf_masonery_thumb figcaption,
+.kf-accomodation-dec .text h5 a,
+.kf-accomodation-dec .text:before,
+.kf-accomodation-dec figcaption,
+.kf-accomodation-dec figcaption a,
+.kf-room-rent,
+.kf-hotel-room h6 a,
+.kf-room-rent:before,
+#owl-demo-1 .owl-controls .owl-page.active span,
+.kf-overlay,
+.kf-staff-thumb figcaption p,
+.kf-staff-thumb figcaption,
+.kf-thumb-heading,
+.thumb figure figcaption,
+.searchform form input[type="text"],
+.kf-top-bar .pull-left ul li a, 
+.kf-top-bar .pull-right ul li a,
+.kf-nav ul li a,
+figure img,
+.blog3-meta ul li a i,
+.blog3-meta ul li a,
+.blog-search form button,
+.comment_reply,
+.post-date,
+.about-autor_des h6 a,
+.autor_social li a i,
+.kf-blog-3:hover figure img,
+.filterable-thumb,
+.thumb-link,
+.rating,
+.filterable-thumb img,
+.coming-soon-social li a,
+.social-links li a,
+.pages-links li a, 
+#nav-trigger span,
+.facilites-items li i,
+.accomodation2-dec .text > a,
+.accomodation2-dec .text > h4 a,
+.kf-facilites-wrap .accomodation2-dec figure img,
+.grid2-slider .bx-wrapper .bx-controls-direction a::before,
+.grid2-slider #bx-pager > a,
+.searchlink i,
+#filterable-item-filter-1 li a.active,
+#filterable-item-filter-1 li a,
+.services-thumb span:after,
+.services-thumb,
+.services-thumb h5,
+.services-thumb h5 a,
+.staff-dec ul li a,
+.staff-dec h5 a,
+.fac-thumb,
+.fac-thumb img,
+.fac-thumb span,
+.fac-thumb h6 a,
+.res-dec .selectric-items li,
+.res-dec .selectric-items li.selected,
+.resrvation-form form button,
+.servic2 .text h4 a
+{
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;	
+}
+
+
+/*
+	  ============================================================
+		  Content Selection
+	  ============================================================
+*/
+::selection {
+    background: #ff401b;
+    color:#fff;
+}
+::-webkit-selection {
+    background: #ff401b;
+    color: #fff;
+}
+::-moz-selection {
+    background: #ff401b;
+    color: #fff;
+}
+
+
+
+
+
+

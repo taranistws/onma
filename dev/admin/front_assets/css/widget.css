@@ -1,0 +1,290 @@
+
+
+.widget{
+
+	float: left;
+
+	width: 100%;
+
+}
+
+footer .widget > h5{
+
+	margin-top: 0;
+
+    margin-bottom: 30px;
+
+    font-size: 18px;
+
+    text-transform: uppercase;
+
+    font-weight: 600;
+
+    color: #000;
+
+}
+
+.widget h5{
+
+	color: #fff;
+
+	margin-bottom: 17px;
+
+	text-transform:capitalize;
+
+}
+
+.widget .text p{
+
+	color: #fff;
+
+	margin-bottom: 17px;
+
+}
+
+.widget .text h5{
+
+	margin-bottom: 24px;
+
+}
+
+.widget form{
+
+	float: left;
+
+	width: 100%;
+
+	position: relative;
+
+}
+
+.widget  form input[type="text"]{
+
+	float: left;
+
+	width: 100%;
+
+	background-color: rgba(225, 225, 225, 0.10);
+
+	border: 1px solid #fff;
+
+	line-height: 21px;
+
+    padding: 10px 60px 14px 30px;
+
+	
+
+	font-size: 18px;
+
+}
+
+.widget form input[type="text"]::-moz-placeholder{
+
+	color: #fff;
+
+}
+
+.widget  form button{
+
+	position: absolute;
+
+	right: 0px;
+
+	top: 0;
+
+	bottom: 0;
+
+	height: 100%;
+
+	padding:0 20px;
+
+	background-color: transparent;
+
+}
+
+.widget.widget-twitter ul{
+
+	float: left;
+
+	width: 100%;
+
+}
+
+.widget-twitter li{
+
+	float: left;
+
+	width: 100%;
+
+	margin-bottom: 8px;
+
+}
+
+.widget-twitter li i
+{
+	font-size: 30px;
+}
+.widget-twitter li i.fa-facebook-official
+{
+	color:#4267B2;
+}
+.widget-twitter li i.fa-twitter
+{
+	color:#1DA1F2;
+}
+.widget-twitter li i.fa-instagram
+{
+	color:#e1306c;
+}
+
+.widget-twitter li p {
+
+    display: inline;
+
+    color: #fff;
+
+}
+
+.widget-twitter li a{
+
+	color: #000;
+
+	font-size: 14px;
+
+}
+
+.widget-twitter li a:hover{
+
+	color: #eb1a1a;
+
+}
+
+.widget.widget-instagram ul {
+
+    float: none;
+
+    margin-left: -22px;
+
+}
+
+.widget-instagram li {
+
+    display: inline-block;
+
+    margin-bottom: 25px;
+
+    margin-left: 21px;
+
+}
+
+.widget-instagram li a{
+
+	display: block;
+
+	text-align: center;
+
+	position: relative;
+
+	color: #fff;
+
+}
+
+.widget-instagram li a:hover img{
+
+	opacity: 0.35;
+
+	transform:scale(1.1);
+
+	-moz-transform:scale(1.1);
+
+	-webkit-transform:scale(1.1);
+
+}
+
+.widget-instagram li a i {
+
+    font-size: 20px;
+
+    left: 0;
+
+    margin-top: -8px;
+
+    position: absolute;
+
+    right: 0;
+
+    opacity: 0;
+
+    top: 50%;
+
+}
+
+.widget-instagram li a:hover i{
+
+	opacity: 1;
+
+}
+
+.kf_copyright_wrap{
+
+	float: left;
+
+	width: 100%;
+
+	padding: 48px 0 49px 0;
+
+	margin-top: 37px;
+
+	border-top:1px solid rgba(225, 225, 225, 0.35); 
+
+	line-height: 16px;
+
+}
+
+.kf-footer-nav{
+
+	float: left;
+
+}
+
+.kf-footer-nav li{
+
+	display: inline-block;
+
+	margin-right: 20px;
+
+}
+
+.kf-footer-nav li a{
+
+	display: block;
+
+	color: #000;
+
+	font-size: 14px;
+
+}
+
+.kf-footer-social{
+
+	float: right;
+
+}
+
+.kf-footer-social li{
+
+	display: inline-block;
+
+	margin-left: 25px;
+
+}
+
+.kf-footer-social li a{
+
+	display: block;
+
+	color: #000;
+
+	font-size: 14px;
+
+}

@@ -1,0 +1,14 @@
+ RewriteEngine on  
+   RewriteBase /demophp/dev/
+ # mod_rewrite ignore rules if a matching file or directory exists
+   RewriteCond %{REQUEST_FILENAME} -f [NC,OR] 
+   RewriteCond %{REQUEST_FILENAME} -d [NC] 
+   RewriteRule .* - [L] 
+ # generate url 
+  
+ # RewriteRule ^single/(.*)$  single.php?slug=$2 [NC,L,QSA]
+
+ RewriteRule ^post/([-a-zA-Z0-9]+)/?$ single.php?slug=$1 [L,NC]
+
+ RewriteRule ^(.*)$  page.php?slug=$1 [NC,L,QSA]
+
